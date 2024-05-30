@@ -47,6 +47,15 @@ const myQuestions = [
             c: "Vincent van Gogh"
         },
         correctAnswer: "a"
+    },
+    {
+        question: "Who is codes with pankaj",
+        answers: {
+            a: "p4n.in",
+            b: "codeswithpankaj.com",
+            c: "pn2.in"
+        },
+        correctAnswer: "b"
     }
 ];
 
